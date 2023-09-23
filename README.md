@@ -20,7 +20,6 @@ Aqui estão alguns dos projetos disponíveis neste repositório:
 
 1. [Relational Migration](./exemplo-aplicacao): Um exemplo da ferramenta de migracao de SQL Para NOSQL
 
-
 ## Contribuição
 
 Você é bem-vindo para contribuir para este projeto e adicionar seus próprios projetos, ferramentas ou documentação relacionados ao MongoDB Atlas. Basta seguir as diretrizes de contribuição neste repositório e enviar suas contribuições através de pull requests.
