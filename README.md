@@ -18,13 +18,8 @@ O MongoDB Atlas é um serviço de banco de dados gerenciado pela equipe por trá
 
 Aqui estão alguns dos projetos disponíveis neste repositório:
 
-1. [Projeto de Exemplo de Aplicação com MongoDB Atlas](./exemplo-aplicacao): Um exemplo completo de uma aplicação simples que usa o MongoDB Atlas para armazenar dados.
+1. [Relational Migration](./exemplo-aplicacao): Um exemplo da ferramenta de migracao de SQL Para NOSQL
 
-2. [Ferramenta de Backup Automatizado](./ferramenta-backup): Uma ferramenta que automatiza o processo de backup de seu cluster MongoDB Atlas.
-
-3. [Guia de Otimização de Desempenho](./guia-otimizacao): Um guia detalhado sobre como otimizar o desempenho de seu cluster MongoDB Atlas.
-
-4. [Integração com o AWS Lambda](./integracao-aws-lambda): Um exemplo de integração do MongoDB Atlas com funções do AWS Lambda para acionar ações com base em eventos.
 
 ## Contribuição
 
