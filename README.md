@@ -5,7 +5,6 @@ Este é um repositório principal que abriga uma coleção de projetos relaciona
 ## Visão Geral
 
 
-
 O MongoDB Atlas é um serviço de banco de dados gerenciado pela equipe por trás do MongoDB. Ele permite que você crie, implante e escale facilmente bancos de dados MongoDB na nuvem. Este projeto reúne várias iniciativas que cobrem diferentes aspectos do MongoDB Atlas, incluindo:
 
 - **Projetos de Exemplo**: Encontre projetos prontos para uso que demonstram como se conectar ao MongoDB Atlas, criar coleções, realizar consultas e muito mais.
